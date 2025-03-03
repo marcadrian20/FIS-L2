@@ -2,7 +2,7 @@
 public class Ajutor {
 	public void afisare()
 	{
-		System.out.println("HELLO WRLD");
+		System.out.println("o");
 	}
 	public void info()
 	{
